@@ -1,0 +1,80 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  @apply bg-black text-white;
+  font-family: 'Inter', sans-serif;
+}
+
+/* Custom gold color classes */
+.text-gold-500 {
+  color: #FFD700;
+}
+
+.text-gold-600 {
+  color: #E6C200;
+}
+
+.bg-gold-500 {
+  background-color: #FFD700;
+}
+
+.bg-gold-600 {
+  background-color: #E6C200;
+}
+
+.bg-gold-700 {
+  background-color: #CCA800;
+}
+
+.border-gold-500 {
+  border-color: #FFD700;
+}
+
+.border-gold-600 {
+  border-color: #E6C200;
+}
+
+.hover\:text-gold-500:hover {
+  color: #FFD700;
+}
+
+.hover\:bg-gold-500:hover {
+  background-color: #FFD700;
+}
+
+.hover\:bg-gold-600:hover {
+  background-color: #E6C200;
+}
+
+.hover\:bg-gold-700:hover {
+  background-color: #CCA800;
+}
+
+.focus\:ring-gold-500:focus {
+  --tw-ring-color: #FFD700;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #1a1a1a;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #FFD700;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #E6C200;
+}

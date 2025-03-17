@@ -1,0 +1,7 @@
+brand,model,cores,threads,base_clock,boost_clock,tdp,price,amazon_link,flipkart_link
+AMD,Ryzen 5 5600X,6,12,3.7,4.6,65,199.99,https://www.amazon.com/AMD-Ryzen-5600X-12-Thread-Processor/dp/B08166SLDF,https://www.flipkart.com/amd-ryzen-5-5600x
+AMD,Ryzen 7 5800X,8,16,3.8,4.7,105,299.99,https://www.amazon.com/AMD-Ryzen-5800X-16-Thread-Processor/dp/B0815XFSGK,https://www.flipkart.com/amd-ryzen-7-5800x
+AMD,Ryzen 9 5900X,12,24,3.7,4.8,105,399.99,https://www.amazon.com/AMD-Ryzen-5900X-24-Thread-Processor/dp/B08164VTWH,https://www.flipkart.com/amd-ryzen-9-5900x
+Intel,Core i5-12600K,10,16,3.7,4.9,125,279.99,https://www.amazon.com/Intel-i5-12600K-Desktop-Processor-Features/dp/B09FX4D8W9,https://www.flipkart.com/intel-core-i5-12600k
+Intel,Core i7-12700K,12,20,3.6,5.0,125,379.99,https://www.amazon.com/Intel-i7-12700K-Desktop-Processor-Features/dp/B09FXDLX95,https://www.flipkart.com/intel-core-i7-12700k
+Intel,Core i9-12900K,16,24,3.2,5.2,125,589.99,https://www.amazon.com/Intel-i9-12900K-Desktop-Processor-Features/dp/B09FXFJW2F,https://www.flipkart.com/intel-core-i9-12900k

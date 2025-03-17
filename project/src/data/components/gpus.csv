@@ -1,0 +1,7 @@
+brand,model,memory,memory_type,base_clock,boost_clock,tdp,price,amazon_link,flipkart_link
+NVIDIA,GeForce RTX 3060,12,GDDR6,1320,1777,170,329.99,https://www.amazon.com/NVIDIA-GeForce-RTX-3060,https://www.flipkart.com/nvidia-geforce-rtx-3060
+NVIDIA,GeForce RTX 3070,8,GDDR6,1500,1725,220,499.99,https://www.amazon.com/NVIDIA-GeForce-RTX-3070,https://www.flipkart.com/nvidia-geforce-rtx-3070
+NVIDIA,GeForce RTX 3080,10,GDDR6X,1440,1710,320,699.99,https://www.amazon.com/NVIDIA-GeForce-RTX-3080,https://www.flipkart.com/nvidia-geforce-rtx-3080
+AMD,Radeon RX 6600 XT,8,GDDR6,1968,2589,160,379.99,https://www.amazon.com/AMD-Radeon-RX-6600-XT,https://www.flipkart.com/amd-radeon-rx-6600-xt
+AMD,Radeon RX 6700 XT,12,GDDR6,2321,2581,230,479.99,https://www.amazon.com/AMD-Radeon-RX-6700-XT,https://www.flipkart.com/amd-radeon-rx-6700-xt
+AMD,Radeon RX 6800 XT,16,GDDR6,1825,2250,300,649.99,https://www.amazon.com/AMD-Radeon-RX-6800-XT,https://www.flipkart.com/amd-radeon-rx-6800-xt
